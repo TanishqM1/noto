@@ -1,4 +1,4 @@
-# KnowBuddy – AI-Powered Learning Assistant
+# noto – AI-Powered Learning Assistant
 
 KnowBuddy is a full-stack web application designed to help students and independent learners understand and retain information more effectively. Users can upload documents or notes, ask AI-powered questions, generate quizzes and flashcards, and take structured notes — all within an integrated study environment.
 
